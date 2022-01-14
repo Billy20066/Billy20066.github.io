@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'Oswald'; 
+	src: local('sans-serif'),
+		url(Oswald-Regular.ttf); 
+}
+
+.UpperSection {
+				width: 100%;
+}
+
+.BodyImage {
+				width: 100%;
+				height: auto;
+}
+
+header {
+				display: flex;				
+				justify-content: center;
+				margin-bottom: 10%;
+}
+
+h2{
+				font-family: "Oswald";
+				text-align: center;
+}
